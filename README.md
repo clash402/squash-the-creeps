@@ -1,7 +1,5 @@
 # Squash the Creeps!
 
-![Banner](./assets/gfx/banner.svg)
-
 ## Summary
 - Based off of the demo project from the official [Godot docs](https://docs.godotengine.org/en/latest/getting_started/first_3d_game/index.html)
 - Squash as many creeps as possible without letting them touch you!
